@@ -1,1 +1,1 @@
-# Projet-de-Programmation---oscillateurs-harmoniques
+# Projet-de-Programmation - oscillateurs-harmoniques
